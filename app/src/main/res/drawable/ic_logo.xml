@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The dumbbell from the launcher icon, cropped tight for use next to the app name. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="60dp"
+    android:height="28dp"
+    android:viewportWidth="60"
+    android:viewportHeight="28">
+    <path android:fillColor="#FFFFFF" android:pathData="M6,0h8v28h-8z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M46,0h8v28h-8z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M0,6h6v16h-6z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M54,6h6v16h-6z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M14,11h32v6h-32z" />
+</vector>
